@@ -39,13 +39,14 @@ type Query {
 }
 
 type Mutation {
-    addUser(username:String, email:String, password:String):Auth
+    addUser(username:String, email:String, password:String): Auth
     login(email:String, password:String):Auth
     saveBook(bookData:BookInput): User
     removeBook(bookId:ID): User
 }
-
-
 `;
 module.exports = typeDefs;
+
+
+
 
