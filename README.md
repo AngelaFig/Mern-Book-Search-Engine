@@ -7,7 +7,7 @@ The application allows a user to search for new books to read as well as keep a 
 
 
 ## Usage
-Access Deployed site here: 
+
 
 ![book search demo 1](assets/21-mern-homework-demo-01.gif)
 ![book search demo 1](assets/21-mern-homework-demo-02.gif)
